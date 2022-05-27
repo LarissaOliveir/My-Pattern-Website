@@ -19,11 +19,15 @@ Com a 🚧 construção 🚧 do website haverá
   * Sessão para *Information*
 
 
- ❤️ *As cores utilizadas são as preferidas da autora do projeto. Assim como as imagens das flores e plantas escolhidas.* ❤️
+ ❤️ *As cores utilizadas são as preferidas da autora do projeto. Assim como as imagens das flores e plantas escolhidas.* 
 
 ## Inicio:
 ![1 - Animação da nav](https://user-images.githubusercontent.com/69321678/170595068-79ab1a52-a034-4f9d-bfb7-e83140420b7e.gif)
 
-Na demonstração acima podemos ver uma *simples* animação com CSS 
+Na demonstração acima podemos ver uma *simples* navegação entre os elementos *Home - About - Products - Contatc Us* que compõe uma nav. Também existe uma animação feita com CSS que aparecerá quando o Cursor do mouse passar por cima, mudando sua cor. 
+
+
+No gif abaixo: Uma 'imagem' mais ampla de como será o inicio do Website. Contendo tons azuis com contraste branco e roxo.
++1 animação com um botão inicial que irá direcionar o usuário a sessão de contato com o responsável do site.
 
 
